@@ -1,3 +1,7 @@
-![realcathode's Stats](https://github-readme-stats.vercel.app/api?username=realcathode&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-![realcathode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=realcathode&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realcathode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />  
+  <br>
+  <img src="https://profile-counter.glitch.me/realcathode/count.svg?"  />
+  
+</div>
