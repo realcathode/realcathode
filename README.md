@@ -8,6 +8,7 @@ I am actively developing skills in adversary simulation, vulnerability research,
 I like to document the things I learn and CTF writeups on my [personal blog](https://rlcthd.com). Here are some articles you might find interesting:
 
 ### Researching and Engineering
+* [Linux PAM Conversation Hijacking](https://github.com/realcathode/shadow-pam/edit/main/README.md) - *Post-exploitation persistence module for rootkits*
 * [Why Userspace ELF Loading isn't Stealthy](https://rlcthd.com/posts/userspace-elf-loading-is-not-stealthy/) - *Analysis of Linux kernel visibility and control flow.*
 * [Huawei 2025 Tech Challenge: HEVC/h.265 Performance](https://rlcthd.com/posts/huawei-2025-video-compression-notes/) - *Pre/Post-processing filter design for video codecs. My notes and approaches.*
 
