@@ -23,6 +23,6 @@ I like to document the things I learn and CTF writeups on my [personal blog](htt
 * Web: [HackTheBox - Strutted](https://rlcthd.com/posts/hack-the-box-machine-strutted/)
 
 ## Connect
-* Email: ion.miron@tutanota.com
+* Email: github@rlcthd.com
 * Linkedin: https://www.linkedin.com/in/ion-miron-0c81677f/
 * Website: https://rlcthd.com
