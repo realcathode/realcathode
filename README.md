@@ -7,7 +7,7 @@ I am actively developing skills in adversary simulation, vulnerability research,
 ## Technical Writing & Research
 I like to document the things I learn and CTF writeups on my [personal blog](https://rlcthd.com). Here are some articles you might find interesting:
 
-### Researching and Engineering
+### Projects
 * [Custom Network Stack implementation](https://github.com/realcathode/computer-networks) - *Custom implementations of computer networks protocols and snippets, following the OSI stack*
 * [Linux Syscall Hooking via Ftrace and Kprobes](https://github.com/realcathode/ftrace-hooking/) - *Ring 0 syscall hooking using the Linux kernel's tracing framework (ftrace)*
 * [Linux PAM Conversation Hijacking](https://github.com/realcathode/shadow-pam/) - *Post-exploitation persistence module for rootkits*
