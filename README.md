@@ -18,11 +18,6 @@ I like to document the things I learn and CTF writeups on my [personal blog](htt
 * [Building a Personal Cloud](https://rlcthd.com/posts/reliable-storage-for-large-data-sets/) - *Object storage workflows for data longevity and privacy.*
 * [Self Hosted VPN with Wireguard](https://rlcthd.com/posts/self-hosted-vpn-with-wireguard/) - *Privacy limitations and network security.*
 
-### Selected CTF
-* Splunk: [Boss of the SOC v1 (Score: 15,224)](https://your-website.com/posts/splunk-bots-v1)
-* DFIR: [HackTheBox - Allegretto](https://rlcthd.com/posts/hack-the-box-sherlock-allegretto/) | [HackTheBox - Pikaptcha](https://rlcthd.com/posts/hack-the-box-sherlock-pikaptcha/)
-* Web: [HackTheBox - Strutted](https://rlcthd.com/posts/hack-the-box-machine-strutted/)
-
 ## Connect
 * Email: github@rlcthd.com
 * Linkedin: https://www.linkedin.com/in/ion-miron-0c81677f/
