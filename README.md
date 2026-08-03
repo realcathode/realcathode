@@ -1,6 +1,6 @@
 ## whoami
 
-Hi, I'm a Computer Science student focused on **Offensive Security**, **OSINT**, and **Digital Forensics**.
+Hi, I'm a Penetration Tester and Computer Science student focused on **Offensive Security**, **OSINT**, and **Digital Forensics**.
 
 I am actively developing skills in adversary simulation, vulnerability research, and threat analysis. My approach is driven by a hands on mindset.
 
